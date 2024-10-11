@@ -1,6 +1,6 @@
 def add_everything_up(a, b):
     try:
-        a + b
+        return (a + b)
     except:
         a = str(a)
         b = str(b)
